@@ -39,3 +39,9 @@ NONE
 ## Media
 
 <img width="1440" alt="119767032-fddf1b00-be6a-11eb-8c76-7d6626a20085" src="https://user-images.githubusercontent.com/78839909/125386473-32dafa80-e351-11eb-8998-b3768772bce9.png">
+
+## Links
+
+GitHub - https://github.com/mjkekai/NoteTaker
+
+Heroku - https://murmuring-basin-19331.herokuapp.com/
