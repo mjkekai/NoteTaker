@@ -16,12 +16,7 @@ router.post("/api/notes", (req, res) => {
     const newNote = req.body;
     newNote.id = uuidv4();
 
-    // if(newNote.length === 0){
-    //     newNote.id =1
-    // } else {
-    //     newNote.id = (notes[notes.let-1].id +1)
-    // }
-
+    
     //read
     return fs.readFile(path.join(__dirname,"../db/db.json"), "utf8", (err, data) => {
         if (err) throw err;
